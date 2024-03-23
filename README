@@ -1,0 +1,42 @@
+PETE-322 DRILLING ENGINEERING 2
+Homework Assignment-1: Wellbore Hydraulics Algorithm Design
+Objective:
+Design an algorithm to calculate wellbore hydraulics parameters including standpipe pressure,
+Equivalent Circulating Density (ECD), Bit Pressure Drop, Horsepower per square inch (HSI), Jet Impact
+Force, and Optimum Nozzle Sizes based on given inputs such as mud properties, nozzle sizes, fluid flow
+rates, drill string components and sizes, and wellbore dimensions (casing and open hole).
+Instructions:
+1. Develop a detailed algorithm that takes into account the various inputs and calculates the required
+parameters for wellbore hydraulics.
+2. Utilize relevant equations and formulas for each parameter calculation.
+3. Ensure the algorithm is efficient and capable of handling different scenarios and input variations.
+4. Provide clear explanations and comments within the algorithm code to enhance understanding.
+5. Test the algorithm with sample input data to verify its accuracy and functionality.
+Inputs:
+- Mud properties (e.g., viscosity, density, dial readings)
+- Nozzle sizes
+- Fluid flow rates
+- Drill string components (e.g., drill pipe, drill collars) and their lengths and sizes
+- Hole depth (both True Vertical Depth (TVD) and Measured Depth (MD))
+- Other relevant parameters as necessary
+Outputs:
+1. Standpipe Pressure
+2. Equivalent Circulating Density (ECD)
+3. Bit Pressure Drop
+4. Horsepower per square inch (HSI)
+5. Jet Impact Force
+6. Optimum Nozzle Sizes
+Deliverables:
+1. Wellbore Hydraulics Algorithm code written in a programming language of your choice (e.g., Excel,
+Python, MATLAB).
+2. Documentation explaining the logic, equations, and calculations used in the algorithm.
+3. Test cases demonstrating the functionality and accuracy of the algorithm with sample input data.
+Additional Notes:
+- Try to ensure proper error handling and validation techniques are implemented within the algorithm
+code.
+- Consider the impact of various factors such as hole geometry, mud properties, and drill string
+configuration on the wellbore hydraulics calculations.
+- Aim for clarity and readability in both the algorithm code and documentation to facilitate
+understanding for users.
+- Submit your completed assignment by the specified deadline.
+Feel free to reach out if you need further clarification or assistance with the assignment.
